@@ -6,7 +6,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 wordConfig:      
-  myWord: happy61
+  myWord: love61
 
 ---
 spring:
